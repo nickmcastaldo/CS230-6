@@ -1,0 +1,2 @@
+streamlit>=0.79
+streamlit-folium>=0.3
